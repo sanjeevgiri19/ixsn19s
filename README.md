@@ -2,7 +2,7 @@
 
 
 ### 🌟 Featured Projects:
-- **[ixsn news](ixsn.vercel.app)** 
+- **[ixsn news](https://github.com/your-username/ixsn.vercel.app)** 
 - **[Basic Dictionary](xdictionary-wine.vercel.app)**
 - **[Just Fun](react-apps-tau-seven.vercel.app)**
 <!---

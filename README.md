@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Sanjeev .......
-ixsn.. wowww
-wwe
+- 👋 
